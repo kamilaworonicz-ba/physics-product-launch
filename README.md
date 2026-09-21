@@ -48,7 +48,7 @@ Before full production, I tested a prototype with teachers in focus groups. In o
 
 | Before the focus groups | After the focus groups |
 |---|---|
-| ![Textbook page layout before the focus groups](images/layout-before.png) | ![Textbook page layout after the focus groups](images/layout-after.png) |
+| ![Textbook page layout before the focus groups](images/layout_before.png) | ![Textbook page layout after the focus groups](images/layout_after.png) |
 
 ---
 
@@ -57,7 +57,6 @@ Before full production, I tested a prototype with teachers in focus groups. In o
 **Kamila Woronicz**
 
 - Email: <kamila.woronicz@gmail.com>
-- Location: Gdańsk, Poland
 
 ---
 
