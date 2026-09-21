@@ -2,7 +2,7 @@
 
 ### Content & Product Case Study
 
-`Status: Shipped` `Domain: Publishing / EdTech` `Market: Poland, primary school physics, grades 7–8 (2022–2025)`  
+`Status: Shipped` `Domain: Publishing / EdTech` `Market: Poland, primary school physics, grades 7–8 (2021–2025)`  
 `Methods: Surveys / Focus Groups / Prototyping / Team & Freelancer Management`
 
 I built a new physics textbook series around research with 1,150+ teachers. It became the publisher's best-performing new subject line: in the 2023 adoption round, 7% of Polish physics teachers chose it.
