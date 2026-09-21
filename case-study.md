@@ -126,7 +126,7 @@ After the first few sessions it was clear that the existing layout was hard to n
 
 | Before the focus groups | After the focus groups |
 |---|---|
-| ![Textbook page layout before the focus groups](images/layout-before.png) | ![Textbook page layout after the focus groups](images/layout-after.png) |
+| ![Textbook page layout before the focus groups](images/layout_before.png) | ![Textbook page layout after the focus groups](images/layout_after.png) |
 
 [Add a one-line caption that points out what changed on the page.]
 
