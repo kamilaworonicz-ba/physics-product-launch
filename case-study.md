@@ -124,9 +124,16 @@ Before full production, we built a prototype with sample lessons, workbook mater
 
 After the first few sessions it was clear that the existing layout was hard to navigate. With a DTP specialist, I prepared a revised version, and we showed teachers both layouts. They commented on and rated each. I then walked the layout's original author, a respected in-house designer, through the teachers' feedback. The conversation was constructive, partly because the changes were largely cosmetic: they improved the readability of the page, while the main elements stayed untouched.
 
-| Before the focus groups | After the focus groups |
-|---|---|
-| ![Textbook page layout before the focus groups](images/layout_before.png) | ![Textbook page layout after the focus groups](images/layout_after.png) |
+<table>
+  <tr>
+    <th>Before the focus groups</th>
+    <th>After the focus groups</th>
+  </tr>
+  <tr>
+    <td><img src="images/layout_before.png" alt="Textbook page layout before the focus groups" height="600"></td>
+    <td><img src="images/layout_after.png" alt="Textbook page layout after the focus groups" height="600"></td>
+  </tr>
+</table>
 
 [Add a one-line caption that points out what changed on the page.]
 
