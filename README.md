@@ -1,4 +1,4 @@
-# From Teacher Research to 7% National Adoption
+# From Teacher Research to 7% National Adoption: Launching a New Physics Textbook Series
 
 ### Content & Product Case Study
 
