@@ -13,7 +13,6 @@ The starting position was challenging: the publisher's previous physics series h
 
 **[Read the full case study →](case-study.md)**
 
----
 
 ## 🎯 At a glance
 
@@ -24,7 +23,6 @@ The starting position was challenging: the publisher's previous physics series h
 | **Team** | 9 contributors: 5 external (2 authors, 2 subject consultants, 1 video producer) and 4 in-house (3 graphic designers, 1 DTP specialist), plus an external panel of 4–6 teachers in focus groups |
 | **Result** | Best-performing new subject launch · chosen by 7% of Polish physics teachers (2023) |
 
----
 
 ## 🛠️ What I did
 
@@ -32,7 +30,6 @@ The starting position was challenging: the publisher's previous physics series h
 - **Team:** rebuilt the external author and consultant team around experienced primary-school teachers, sourced through teacher communities, personal networks and our own focus groups. I agreed budgets with authors, consultants and the focus panel.
 - **Go-to-market content:** created print and digital sample materials (textbook excerpts, interactive tests, test-generator previews) distributed by the promotions team.
 
----
 
 ## 🔍 Research → decisions
 
@@ -42,7 +39,6 @@ The starting position was challenging: the publisher's previous physics series h
 | ~90% named experiment recordings as their most important classroom material | Made experiment videos a core part of the package |
 | ~60% wanted simpler language | Simplified the mathematical language, then simplified it further after focus groups |
 
----
 
 ## 🖼️ Layout before and after
 
@@ -59,14 +55,11 @@ Before full production, I tested a prototype with teachers in focus groups. In o
   </tr>
 </table>
 
----
-
 ## 📬 Contact
 
-**Kamila Woronicz**
-
-- Email: <kamila.woronicz@gmail.com>
-- Location: Gdańsk, Poland
+**Kamila Woronicz**<br>
+Product Project Manager | Business Analyst <br>
+<kamila.woronicz@gmail.com>
 
 ---
 
