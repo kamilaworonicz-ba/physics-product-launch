@@ -21,7 +21,7 @@ The market made the task harder:
 - **The decision-maker differs from school to school.** Sometimes it is the physics teacher, sometimes the coordinator of the physics team, and sometimes the head teacher, who may choose a publisher for the benefits it offers across subjects.
 - **A strong incumbent.** Over 80% of surveyed teachers used the offer of the market leader in primary-school science textbooks. It covers chemistry, biology, geography and physics, and gives schools extra benefits (for example, free materials or large geography maps) when they choose its books across several subjects.
 
-![Which physics textbook do you currently use](images/survey-current-textbooks.png)
+<img src="images/survey-current-textbooks.png" alt="Which physics textbook do you currently use" width="480">
 
 On the other side, my employer is the market leader in mathematics textbooks, with a highly-regarded series and a market share above 80%, a very different position from its weak standing in physics at the time. Some mathematics teachers also teach physics, which let us run extensive research with this group.
 
@@ -58,10 +58,10 @@ Headline findings:
 
 - **40%+** of teachers could not complete the grade 7 syllabus on time. Students return their textbooks at the end of the year, so topics continued in grade 8 had no book to go with them.
 
-  ![When do you teach the thermodynamics unit](images/survey-syllabus-slip.png)
+  <img src="images/survey-syllabus-slip.png" alt="When do you teach the thermodynamics unit" width="480">
 - **90%+** of teachers wanted a teacher's guide, and **95%** said they would definitely or probably use one.
 
-  ![Would you use a teacher's edition with answers, hints, worked solutions and real-life examples](images/survey-teachers-guide.png)
+  <img src="images/survey-teachers-guide.png" alt="Would you use a teacher's edition with answers, hints, worked solutions and real-life examples" width="480">
 - **~60%** wanted simpler language than in the textbooks they currently used.
 - **~90%** named recordings of physics experiments as the most important material they use in class, and for some it matters more than the textbook itself.
 
@@ -117,14 +117,10 @@ After the first few sessions it was clear that the existing layout was hard to n
     <th>After the focus groups</th>
   </tr>
   <tr>
-    <td><img src="images/layout-before.png" alt="Textbook page layout before the focus groups" width="400"></td>
-    <td><img src="images/layout-after.png" alt="Textbook page layout after the focus groups" width="400"></td>
+    <td><img src="images/layout_before.png" alt="Textbook page layout before the focus groups" width="400"></td>
+    <td><img src="images/layout_after.png" alt="Textbook page layout after the focus groups" width="400"></td>
   </tr>
 </table>
-
-The lesson title moved to the top of the page. Headings, typefaces and colours were reduced. A learning goal was added, experiment steps were numbered, and every experiment got its own title.
-
-### What changed after the focus groups
 
 | What we learned | What we changed |
 |---|---|
@@ -147,11 +143,7 @@ You can browse the current textbook mockup on the publisher's website: [open the
 - materials for students with additional educational needs,
 - digital versions of the products, published through the CMS.
 
-## 8. Sample materials for promotion
-
-For the launch, I prepared sample materials in print and digital form: textbook excerpts, interactive tests and fragments of the test generator (which also worked as samples). The promotions department distributed them to teachers.
-
-## 9. Results
+## 8. Results
 
 - Research with **1,150+ teachers** before the product was designed.
 - **10+ focus groups** that shaped the layout, structure, language and illustrations.
@@ -160,14 +152,11 @@ For the launch, I prepared sample materials in print and digital form: textbook 
 - **7% of all physics teachers in Poland chose the series** in the 2023 adoption round, against a market leader used by over 80% of surveyed teachers. This is a share of teachers, not of students.
 - The next adoption round took place in 2026. [Add the new share when it is available.]
 
-## 10. Lessons learned
-
-*(Draft. Edit so that it reflects what you actually took away.)*
+## 9. Lessons learned
 
 - **Fix the team before the content.** The best research is wasted if the people writing the book do not know the real classroom.
 - **Look behind the label.** Teachers called the previous series "ambitious", but the real barrier was usability.
 - **Test structure early, not just text.** Layout and lesson structure were among the biggest changes after the focus groups.
-- **A crowded market rewards a sharper product, not a louder one.** Against an 80%+ incumbent, the win came from fixing specific, research-backed problems (an unfinished syllabus, an unreadable layout, materials teachers actually wanted), not from trying to out-market it.
 
 ---
 
