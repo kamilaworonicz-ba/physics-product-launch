@@ -1,13 +1,13 @@
-# From Teacher Research to a Best-Performing Physics Textbook Series
+# From Teacher Research to 7% National Adoption
 
 ### Content & Product Case Study
 
 `Status: Shipped` `Domain: Publishing / EdTech` `Market: Poland, primary school physics, grades 7–8 (2021–2025)`  
 `Methods: Surveys / Focus Groups / Prototyping / Team & Freelancer Management`
 
-I built a new physics textbook series around research with 1,150+ teachers. It became the publisher's best-performing new subject line: in the 2023 adoption round, 7% of Polish physics teachers chose it.
+I led the development and launch of a new physics textbook series based on research with 1,150+ teachers. In the 2023 adoption round, 7% of Polish physics teachers chose the series, making it the publisher's best-performing new subject launch.
 
-The starting position was tough: the publisher's previous physics series, acclaimed but niche, was seen by teachers as too ambitious, and over 80% of surveyed teachers used the market leader's offer.
+The starting position was challenging: the publisher's previous physics series had remained niche, while one competitor dominated textbook usage among the teachers we surveyed (over 80%).
 
 **[![Textbook sample preview →](images/mockup-preview.png)](https://multipodreczniki.apps.gwo.pl/demos/f4b52037-e24b-43af-b1fd-ff2e690d762e?page=46)**
 
