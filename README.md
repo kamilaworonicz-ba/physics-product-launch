@@ -9,7 +9,7 @@ I built a new physics textbook series around research with 1,150+ teachers. It b
 
 The starting position was tough: the publisher's previous physics series, acclaimed but niche, was seen by teachers as too ambitious, and over 80% of surveyed teachers used the market leader's offer.
 
-[![Textbook sample preview](images/mockup-preview.png)](https://multipodreczniki.apps.gwo.pl/demos/f4b52037-e24b-43af-b1fd-ff2e690d762e?page=46)
+**[![Textbook sample preview →](images/mockup-preview.png)](https://multipodreczniki.apps.gwo.pl/demos/f4b52037-e24b-43af-b1fd-ff2e690d762e?page=46)**
 
 **[Read the full case study →](case-study.md)**
 
