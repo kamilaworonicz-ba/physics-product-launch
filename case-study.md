@@ -1,4 +1,4 @@
-# From Teacher Research to a Best-Performing Physics Textbook Series
+# From Teacher Research to 7% National Adoption: Launching a New Physics Textbook Series
 
 ### Full Case Study
 
