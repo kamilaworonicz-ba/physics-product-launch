@@ -1,110 +1,46 @@
 # From Teacher Research to 7% National Adoption: Launching a New Physics Textbook Series
 
-### Full Case Study
-
-`Status: Shipped` `Domain: Publishing / EdTech` `Market: Poland, primary school physics, grades 7–8 (2021–2025)`  
+`Status: Shipped` `Type: Real-World Product Launch` `Domain: Publishing / EdTech` `Market: Poland, primary school physics, grades 7–8 (2021–2025)`  
 `Methods: Surveys / Focus Groups / Prototyping / Team & Freelancer Management`
 
 [← Back to summary](README.md)
 
 ---
 
-## 1. Starting point
+## 1. The challenge
 
-The publisher already had a physics series. It had been distinguished by the [Polish Academy of Arts and Sciences](https://en.wikipedia.org/wiki/Polish_Academy_of_Arts_and_Sciences), but it was niche: few teachers chose it. In our surveys, teachers associated it with ambitious content for gifted students.
+The publisher's existing physics series had been distinguished by the [Polish Academy of Arts and Sciences](https://en.wikipedia.org/wiki/Polish_Academy_of_Arts_and_Sciences), but few teachers chose it. Survey respondents described it as ambitious. I saw a more specific barrier: strong content was difficult to navigate, with unclear lesson boundaries and insufficient visual emphasis on key ideas.
 
-My reading of the feedback was different. The content was strong, but the book was hard to navigate: key content was not highlighted well, and it was difficult to see where one lesson ended and the next began. Teachers called the book "ambitious." The barrier I saw was usability.
-
-The market made the task harder:
-
-- **Textbooks are chosen once every three years.** A missed adoption round means waiting for the next one.
-- **The decision-maker differs from school to school.** Sometimes it is the physics teacher, sometimes the coordinator of the physics team, and sometimes the head teacher, who may choose a publisher for the benefits it offers across subjects.
-- **A strong incumbent.** Over 80% of surveyed teachers used the offer of the market leader in primary-school science textbooks. It covers chemistry, biology, geography and physics, and gives schools extra benefits (for example, free materials or large geography maps) when they choose its books across several subjects.
+Winning teachers over would be difficult. Schools typically choose textbooks once every three years, and the person influencing that choice varies by school. More than 80% of surveyed teachers used materials from the leading primary-school science publisher, which also offered benefits to schools choosing its books across several subjects.
 
 <img src="images/survey-current-textbooks.png" alt="Which physics textbook do you currently use" width="480">
 
-On the other side, my employer is the market leader in mathematics textbooks, with a highly-regarded series and a market share above 80%, a very different position from its weak standing in physics at the time. Some mathematics teachers also teach physics, which let us run extensive research with this group.
+My employer was already the market leader in mathematics textbooks, with a share above 80%, but had a much weaker position in physics. Some mathematics teachers also taught physics, giving us a way to reach this audience for research.
 
-## 2. The challenge
+**My goal was to help build a physics series that teachers would choose and find practical in an ordinary grade 7–8 classroom.**
 
-The goal was not to publish another textbook, but to build a series that teachers would actively choose and use. That required answering four questions:
+## 2. Research into product decisions
 
-- How do teachers actually run their physics lessons?
-- Which parts of the curriculum cause the most difficulty?
-- What stops teachers from using existing materials effectively?
-- What extra tools would make lesson preparation easier?
+I planned the teacher surveys with the promotions department and analysed the results. Across surveys, interviews and qualitative research, we reached **1,150+ physics teachers**. I then observed three focus groups and led more than ten myself, testing successive versions of the materials with teachers.
 
-There was a second challenge: the team. When I joined, a team was already in place: one author, who had written the first lessons, and two subject consultants, who had reviewed them. Their experience came from university teaching (the author), from upper-secondary and technical school (subject consultant #1), and from a private primary school with gifted students and a very well-equipped physics lab (subject consultant #2). None of it reflected the ordinary grade 7–8 classroom, where most of our target teachers work. I judged that a product built by this team would not fit the market, and I decided to fix the team before fixing the content.
-
-## 3. My role
-
-I worked on the project from research to launch. My responsibilities:
-
-- planning the teacher surveys with the promotions department and analysing the results
-- running the focus groups (observed 3, then ran 10+ myself)
-- rebuilding the external author and consultant team, and agreeing budgets with them and the focus panel
-- revising the textbook layout with a DTP specialist, and discussing teachers' feedback with the layout's original author
-- editing text, photos and illustrations with the team
-- preparing sample materials for the promotions team
-- coordinating graphic designers, DTP and the video producer
-- overseeing the supplementary print and digital content, including its publication in the CMS
-
-My work with the promotions department went beyond handing over finished materials: I helped promote the new textbook series on teacher Facebook groups, writing posts and planning their publication schedule, and decided on promotional content for the publisher's website. During this involvement, I was offered a role in that department, which I declined.
-
-## 4. Audience research
-
-Together with the promotions department, I defined what we needed to learn from teachers before writing a single lesson. The research combined surveys, interviews and qualitative methods and reached **1,150+ physics teachers**.
-
-Headline findings:
-
-- **40%+** of teachers could not complete the grade 7 syllabus on time. Students return their textbooks at the end of the year, so topics continued in grade 8 had no book to go with them.
-
-  <img src="images/survey-syllabus-slip.png" alt="When do you teach the thermodynamics unit" width="480">
-- **90%+** of teachers wanted a teacher's guide, and **95%** said they would definitely or probably use one.
-
-  <img src="images/survey-teachers-guide.png" alt="Would you use a teacher's edition with answers, hints, worked solutions and real-life examples" width="480">
-- **~60%** wanted simpler language than in the textbooks they currently used.
-- **~90%** named recordings of physics experiments as the most important material they use in class, and for some it matters more than the textbook itself.
-
-### From insight to product decision
-
-| What the research showed | Product decision |
+| What we learned | What we changed |
 |---|---|
-| 40%+ of teachers could not finish the grade 7 syllabus, and students have no textbook for topics continued in grade 8 | Moved part of the grade 7 content to grade 8 and made it available digitally for flexible use |
-| ~60% of teachers wanted simpler language | Simplified mathematical language (and simplified further after the focus groups) |
-| ~90% of teachers named experiment recordings as their most important classroom material | Experiment videos as a core part of the package |
-| 90%+ of teachers wanted a teacher's guide | Teacher guides as part of the series |
-| Students struggled with mathematical transformations | Algebraic transformations moved closer to the point where they are needed, with extra scaffolding |
-| Many schools lacked specialised lab equipment | Experiments designed around simple, accessible materials |
-| Teaching preferences vary: some teachers rely on worksheets rather than textbooks | A worksheet alternative for every lesson |
+| Over 40% of teachers could not finish the grade 7 syllabus on time. Students returned their textbooks at the end of the year, leaving no book for topics continued in grade 8. | Moved part of the content to grade 8 and made it available digitally for flexible use. |
+| Around 60% wanted simpler language; focus groups showed the draft was still too mathematical. | Simplified the language and added support for algebraic transformations where students needed it. |
+| Around 90% identified experiment recordings as especially important classroom materials. Many schools lacked specialised lab equipment. | Made experiment videos a core part of the package and designed activities around accessible materials. |
+| Over 90% wanted a teacher's guide. Teaching preferences also varied: some teachers relied on worksheets rather than textbooks. | Added teacher guides and a worksheet alternative for every lesson. |
 
+The charts below show selected survey questions; their response counts differ from the total number of teachers reached across the research.
 
-## 5. Rebuilding the team
+<img src="images/survey-syllabus-slip.png" alt="When do you teach the thermodynamics unit" width="480">
 
-| Before | After |
-|---|---|
-| 1 author and 2 consultants, none with mainstream primary-school classroom experience | 2 authors and 2 consultants with relevant classroom experience, plus a standing focus panel |
+<img src="images/survey-teachers-guide.png" alt="Would you use a teacher's edition with answers, hints, worked solutions and real-life examples" width="480">
 
-**What I did:**
-- Sourced replacements through teacher channels: a Facebook group for physics teachers, personal networks and referrals — one consultant came directly from the focus groups.
-- Agreed budgets with authors, consultants and the focus panel.
+### Testing the prototype
 
-**What changed:**
-- Consultants' comments became more accurate, reflecting work with a standard student.
-- A second author sped up the work and let authors cross-review each other's material.
-- Doubts could often be settled with a quick call to an author — not possible with the previous consultants.
-- Some consultants stayed on longer, writing test-generator items and consulting on experiment recordings.
+We tested sample lessons, workbook materials and experiments before full production. Four focus-group sessions brought in different teachers for fresh feedback; the remaining sessions used a regular panel of six teachers to review successive versions.
 
-## 6. Prototype and focus groups
-
-Before full production, we built a prototype with sample lessons, workbook materials and experimental activities. I observed the first 3 focus groups and then ran 10+ myself:
-
-- **4 sessions with different groups of teachers**, so that as many teachers as possible could look at the materials with fresh eyes,
-- **the remaining sessions with the regular panel of 6 teachers**, who reviewed successive versions.
-
-### Layout: two versions side by side
-
-After the first few sessions it was clear that the existing layout was hard to navigate. With a DTP specialist, I prepared a revised version, and we showed teachers both layouts. They commented on and rated each. I then walked the layout's original author, a respected in-house designer, through the teachers' feedback. The conversation was constructive, partly because the changes were largely cosmetic: they improved the readability of the page, while the main elements stayed untouched.
+Early feedback showed the draft page layout was hard for teachers and students to follow. I worked with a DTP specialist on a revised version, showed both versions to teachers, and discussed their comments and ratings with the original designer. We improved readability while keeping the layout's main elements.
 
 <table>
   <tr>
@@ -117,40 +53,34 @@ After the first few sessions it was clear that the existing layout was hard to n
   </tr>
 </table>
 
-| What we learned | What we changed |
-|---|---|
-| The existing page layout was hard for teachers and students to navigate | Revised layout for readability, keeping the main elements. Teachers' comments and ratings of both versions guided the result |
-| Lessons lacked a clear purpose from the student's point of view | Added a learning goal to every lesson: what the student will learn |
-| Our first structure allowed 3 lessons on one topic to be merged into a larger block (one title, more content) | Rejected that idea: every lesson became a self-contained unit |
-| Teachers were almost unanimously enthusiastic about humorous illustrations, not only photos, charts and diagrams | Kept and extended the use of humorous illustrations |
-| The language of the textbook was still too mathematical | Simplified the mathematical language further than I had originally assumed |
+The sessions also led us to give every lesson a clear learning goal, keep each lesson self-contained, use more humorous illustrations and simplify the mathematical language further.
 
-## 7. What we shipped
+## 3. Building the team and delivering the product
 
-You can browse the current textbook mockup on the publisher's website: [open the mockup](https://multipodreczniki.apps.gwo.pl/demos/f4b52037-e24b-43af-b1fd-ff2e690d762e?page=26).
+The initial team consisted of one author and two consultants whose experience did not reflect a typical primary-school physics classroom. I sourced replacements through teacher groups, contacts and referrals; one consultant came from the focus groups. I also agreed budgets with the authors, consultants and focus panel.
 
-- textbook series,
-- student worksheets ([sample lesson worksheet](https://gwo.pl/lekcja15-cisnienie-hydrostatyczne-3/)) and experiment worksheets ([sample experiment worksheet](https://gwo.pl/zmiana-cisnienia-hydrostatycznego-wraz-z-wysokoscia-slupa-wody-2-2/)),
-- instructional and experiment videos, recorded with an external video producer ([sample experiment recording](https://gwo.pl/przedmioty/fizyka/materialy-dydaktyczne/czas-na-doswiadczenie/lekcja-22-dzwiek-instrumenty-i-oscylogramy/)),
-- interactive simulations: ready-made PhET simulations, curated and linked to specific lessons in the digital textbooks and other materials ([sample simulation](https://gwo.pl/przedmioty/fizyka/zaciekawiajmy-fizyka/eksperymentarium/obwody-pradu-stalego/)),
-- teacher guides,
-- tests and assessment materials, with items from consultants for the test generator,
-- materials for students with additional educational needs,
-- digital versions of the products, published through the CMS.
+The resulting team included two authors, two consultants with relevant classroom experience and a standing teacher panel. The second author increased production capacity and enabled cross-review, while the consultants could assess materials against everyday classroom needs.
 
-## 8. Results
+I coordinated authors, consultants, graphic designers, DTP and an external video producer; edited text and visual materials; oversaw supplementary print and digital content; and managed publication through the CMS.
 
-- Research with **1,150+ teachers** before the product was designed.
-- **10+ focus groups** that shaped the layout, structure, language and illustrations.
-- A team of **9+ contributors**, rebuilt around experienced classroom teachers.
-- The publisher's **best-performing new subject launch**.
-- **7% of all physics teachers in Poland chose the series** in the 2023 adoption round, against a market leader used by over 80% of surveyed teachers. This is a share of teachers, not of students.
+## 4. Launch and distribution
 
-## 9. Lessons learned
+We shipped:
 
-- **Fix the team before the content.** The best research is wasted if the people writing the book do not know the real classroom.
-- **Look behind the label.** Teachers called the previous series "ambitious", but the real barrier was usability.
-- **Test structure early, not just text.** Layout and lesson structure were among the biggest changes after the focus groups.
+- **A textbook series** with clearer lesson structure and a revised layout. [Browse the current textbook mockup](https://multipodreczniki.apps.gwo.pl/demos/f4b52037-e24b-43af-b1fd-ff2e690d762e?page=26).
+- **Classroom resources:** [lesson worksheets](https://gwo.pl/lekcja15-cisnienie-hydrostatyczne-3/), [experiment worksheets](https://gwo.pl/zmiana-cisnienia-hydrostatycznego-wraz-z-wysokoscia-slupa-wody-2-2/), [experiment videos](https://gwo.pl/przedmioty/fizyka/materialy-dydaktyczne/czas-na-doswiadczenie/lekcja-22-dzwiek-instrumenty-i-oscylogramy/) and curated [PhET simulations](https://gwo.pl/przedmioty/fizyka/zaciekawiajmy-fizyka/eksperymentarium/obwody-pradu-stalego/).
+- **Teacher and student support:** teacher guides, tests, test-generator items, materials for students with additional educational needs and digital versions of the products.
+
+I prepared sample materials for the promotions department, wrote posts for teacher Facebook groups, planned their publication schedule and selected promotional content for the publisher's website. My involvement led to an offer to join the promotions department, which I declined.
+
+## 5. Results
+
+- **7% of physics teachers in Poland chose the series** in the 2023 adoption round. This is a share of teachers, not students.
+- It became the publisher's **best-performing launch in a new subject**.
+- The product reflected research with **1,150+ teachers** and feedback from **10+ focus groups**.
+- I helped assemble and coordinate a team of **9+ contributors** across content, design and production.
+
+The central lesson was to test the product's structure with its users early and ensure that the people creating it understand the classroom it is meant to serve.
 
 ---
 
