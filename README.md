@@ -5,7 +5,7 @@
 `Status: Shipped` `Domain: Publishing / EdTech` `Market: Poland, primary school physics, grades 7–8 (2021–2025)`  
 `Methods: Surveys / Focus Groups / Prototyping / Team & Freelancer Management`
 
-I led the development and launch of a new physics textbook series based on research with 1,150+ teachers. In the 2023 adoption round, 7% of Polish physics teachers chose the series, making it the publisher's best-performing new subject launch.
+I led the development and launch of a new physics textbook series based on research with 1,150+ teachers. In the 2023 adoption round, 7% of Polish physics teachers chose the series.
 
 The starting position was challenging: the publisher's previous physics series had remained niche, while one competitor dominated textbook usage among the teachers we surveyed (over 80%).
 
@@ -21,7 +21,7 @@ The starting position was challenging: the publisher's previous physics series h
 | **My role** | Managing Editor, leading product development from research to launch |
 | **Scope** | Textbook series, worksheets, experiment videos, curated interactive simulations, teacher guides, tests, digital editions |
 | **Team** | 9 contributors: 5 external (2 authors, 2 subject consultants, 1 video producer) and 4 in-house (3 graphic designers, 1 DTP specialist), plus an external panel of 4–6 teachers in focus groups |
-| **Result** | Best-performing new subject launch · chosen by 7% of Polish physics teachers (2023) |
+| **Result** | New subject launch chosen by 7% of Polish physics teachers (2023) |
 
 
 ## 🛠️ What I did
