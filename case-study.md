@@ -76,7 +76,6 @@ I prepared sample materials for the promotions department, wrote posts for teach
 ## 5. Results
 
 - **7% of physics teachers in Poland chose the series** in the 2023 adoption round. This is a share of teachers, not students.
-- It became the publisher's **best-performing launch in a new subject**.
 - The product reflected research with **1,150+ teachers** and feedback from **10+ focus groups**.
 - I helped assemble and coordinate a team of **9+ contributors** across content, design and production.
 
