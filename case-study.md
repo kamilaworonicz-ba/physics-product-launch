@@ -69,7 +69,7 @@ We shipped:
 
 - **A textbook series** with clearer lesson structure and a revised layout. [Browse the current textbook mockup](https://multipodreczniki.apps.gwo.pl/demos/f4b52037-e24b-43af-b1fd-ff2e690d762e?page=26).
 - **Classroom resources:** [lesson worksheets](https://gwo.pl/lekcja15-cisnienie-hydrostatyczne-3/), [experiment worksheets](https://gwo.pl/zmiana-cisnienia-hydrostatycznego-wraz-z-wysokoscia-slupa-wody-2-2/), [experiment videos](https://gwo.pl/przedmioty/fizyka/materialy-dydaktyczne/czas-na-doswiadczenie/lekcja-22-dzwiek-instrumenty-i-oscylogramy/) and curated [PhET simulations](https://gwo.pl/przedmioty/fizyka/zaciekawiajmy-fizyka/eksperymentarium/obwody-pradu-stalego/).
-- **Teacher and student support:** teacher guides, tests, test-generator items, materials for students with additional educational needs and digital versions of the products.
+- **Teacher and student support:** teacher guides, tests, test-generator items, materials for students with special educational needs and digital versions of the products.
 
 I prepared sample materials for the promotions department, wrote posts for teacher Facebook groups, planned their publication schedule and selected promotional content for the publisher's website. My involvement led to an offer to join the promotions department, which I declined.
 
