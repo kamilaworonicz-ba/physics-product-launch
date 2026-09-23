@@ -30,7 +30,7 @@ The charts below show selected survey questions. Their response counts differ fr
 
 ## 🖼️ Testing the prototype
 
-Before full production, we tested sample lessons, workbook materials and experiments. Four focus-group sessions brought in different teachers for fresh feedback; later sessions used a regular teacher panel to review successive versions.
+Before full production, we tested sample lessons and workbook materials. Four focus-group sessions brought in different teachers for fresh feedback; later sessions used a regular teacher panel to review successive versions.
 
 Teachers found the draft page layout difficult to navigate. I revised it with a DTP specialist and showed both versions side by side in the focus groups. Teachers' comments and ratings guided the final layout.
 
