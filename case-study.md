@@ -38,19 +38,18 @@ There was a second challenge: the team. When I joined, a team was already in pla
 
 ## 3. My role
 
-I worked on the project from research to launch and took on more ownership as it progressed. In the end I coordinated the development of the whole product. My responsibilities:
+I worked on the project from research to launch. My responsibilities:
 
-- planning the teacher surveys with the promotions department and analysing the results,
-- running the focus groups (I observed 3, then ran 10+ myself),
-- rebuilding the external author and consultant team,
-- agreeing budgets with authors, consultants and the focus panel,
-- revising the textbook layout with a DTP specialist and discussing teachers' feedback with the layout's original author,
-- editing the material itself, together with the team: text, photos and illustrations,
-- preparing sample materials for the promotions team,
-- coordinating authors, consultants, graphic designers, DTP and the video producer,
-- overseeing the supplementary print and digital content and its digital publication in the CMS.
+- planning the teacher surveys with the promotions department and analysing the results
+- running the focus groups (observed 3, then ran 10+ myself)
+- rebuilding the external author and consultant team, and agreeing budgets with them and the focus panel
+- revising the textbook layout with a DTP specialist, and discussing teachers' feedback with the layout's original author
+- editing text, photos and illustrations with the team
+- preparing sample materials for the promotions team
+- coordinating graphic designers, DTP and the video producer
+- overseeing the supplementary print and digital content, including its publication in the CMS
 
-My work with the promotions department went beyond handing over finished materials: I helped plan teacher research and prepared assets for the launch. After this collaboration, I was offered a role in that department, which I declined.
+My work with the promotions department went beyond handing over finished materials: I helped promote the new textbook series on teacher Facebook groups, writing posts and planning their publication schedule, and decided on promotional content for the publisher's website. During this involvement, I was offered a role in that department, which I declined.
 
 ## 4. Audience research
 
@@ -79,26 +78,22 @@ Headline findings:
 | Many schools lacked specialised lab equipment | Experiments designed around simple, accessible materials |
 | Teaching preferences vary: some teachers rely on worksheets rather than textbooks | A worksheet alternative for every lesson |
 
+
 ## 5. Rebuilding the team
 
 | Before | After |
 |---|---|
 | 1 author and 2 consultants, none with mainstream primary-school classroom experience | 2 authors and 2 consultants with relevant classroom experience, plus a standing focus panel |
 
-What I did:
+**What I did:**
+- Sourced replacements through teacher channels: a Facebook group for physics teachers, personal networks and referrals — one consultant came directly from the focus groups.
+- Agreed budgets with authors, consultants and the focus panel.
 
-- **Added a second author:** a long-serving primary-school teacher.
-- **Replaced the consultants** with people who had the right classroom experience.
-- **Sourced people through teacher channels:** a Facebook group for physics teachers, personal networks and referrals. One consultant came directly from our focus groups.
-- **Agreed budgets** with authors, consultants and the focus panel.
-- **Built a permanent feedback loop:** a regular focus panel of up to 6 grade 7–8 physics teachers who reviewed the materials as they were developed.
-
-What changed:
-
-- **Consultants' comments became much more accurate** and reflected work with a standard student.
-- **A second author sped up the work.** The authors could also review each other's materials, which improved quality.
-- **Doubts could be settled on the spot.** A quick phone call with an experienced teacher was often enough. This was not possible with the consultants, but it was with the authors.
-- **Some consultants stayed on longer:** they wrote items for the test generator and consulted on the experiment recordings.
+**What changed:**
+- Consultants' comments became more accurate, reflecting work with a standard student.
+- A second author sped up the work and let authors cross-review each other's material.
+- Doubts could often be settled with a quick call to an author — not possible with the previous consultants.
+- Some consultants stayed on longer, writing test-generator items and consulting on experiment recordings.
 
 ## 6. Prototype and focus groups
 
