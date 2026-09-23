@@ -9,7 +9,7 @@ I led the development and launch of a new physics textbook series based on resea
 
 The starting position was challenging: the publisher's previous physics series had remained niche, while one competitor dominated textbook usage among the teachers we surveyed (over 80%).
 
-**[![Textbook sample preview →](images/mockup-preview.png)](https://multipodreczniki.apps.gwo.pl/demos/f4b52037-e24b-43af-b1fd-ff2e690d762e?page=46)**
+**[Explore the textbook sample →](https://multipodreczniki.apps.gwo.pl/demos/f4b52037-e24b-43af-b1fd-ff2e690d762e?page=46)**
 
 **[Read the full case study →](case-study.md)**
 
@@ -28,7 +28,7 @@ The starting position was challenging: the publisher's previous physics series h
 
 - **Research:** planned the teacher surveys with the promotions team, then observed 3 focus groups and ran 10+ myself: 4 with varied groups of teachers, the rest with a panel of 4-6 (grade 7–8 physics teachers).
 - **Team:** rebuilt the external author and consultant team around experienced primary-school teachers, sourced through teacher communities, personal networks and our own focus groups. I agreed budgets with authors, consultants and the focus panel.
-- **Go-to-market content:** created print and digital sample materials (textbook excerpts, interactive tests, test-generator previews) distributed by the promotions team.
+- **Launch materials:** created print and digital samples (textbook excerpts, interactive tests, test-generator previews) for the promotions team to distribute.
 
 
 ## 🔍 Research → decisions

@@ -50,6 +50,8 @@ I worked on the project from research to launch and took on more ownership as it
 - coordinating authors, consultants, graphic designers, DTP and the video producer,
 - overseeing the supplementary print and digital content and its digital publication in the CMS.
 
+My work with the promotions department went beyond handing over finished materials: I helped plan teacher research and prepared assets for the launch. After this collaboration, I was offered a role in that department, which I declined.
+
 ## 4. Audience research
 
 Together with the promotions department, I defined what we needed to learn from teachers before writing a single lesson. The research combined surveys, interviews and qualitative methods and reached **1,150+ physics teachers**.
@@ -76,8 +78,6 @@ Headline findings:
 | Students struggled with mathematical transformations | Algebraic transformations moved closer to the point where they are needed, with extra scaffolding |
 | Many schools lacked specialised lab equipment | Experiments designed around simple, accessible materials |
 | Teaching preferences vary: some teachers rely on worksheets rather than textbooks | A worksheet alternative for every lesson |
-
-[Check that each decision was really a response to this finding, and adjust the table if not.]
 
 ## 5. Rebuilding the team
 
@@ -150,7 +150,6 @@ You can browse the current textbook mockup on the publisher's website: [open the
 - A team of **9+ contributors**, rebuilt around experienced classroom teachers.
 - The publisher's **best-performing new subject launch**.
 - **7% of all physics teachers in Poland chose the series** in the 2023 adoption round, against a market leader used by over 80% of surveyed teachers. This is a share of teachers, not of students.
-- The next adoption round took place in 2026. [Add the new share when it is available.]
 
 ## 9. Lessons learned
 
