@@ -5,6 +5,8 @@
 
 I led the development and launch of a new physics textbook series, from teacher research and product decisions to production and promotional materials. **In the 2023 adoption round, 7% of physics teachers in Poland chose the series.**
 
+> **Update (added 2026-09-25):** in the 2026 adoption round, the series reached ~10% national adoption among physics teachers — up from 7% in 2023, its first cycle.
+
 **[Explore the textbook sample →](https://multipodreczniki.apps.gwo.pl/demos/f4b52037-e24b-43af-b1fd-ff2e690d762e?page=46)**
 
 ## 🎯 The challenge
@@ -67,7 +69,8 @@ I prepared sample materials for the promotions department, wrote posts for teach
 
 ## 📈 Results
 
-**7% of physics teachers in Poland chose the series in the 2023 adoption round.** This figure refers to teachers, not students.
+**7% of physics teachers in Poland chose the series in the 2023 adoption round.** This figure refers to teachers, not students. <br>
+*Update (added 2026-09-25): in the 2026 adoption round, the series reached ~10% national adoption among physics teachers — up from 7% in 2023, its first cycle.*
 
 The launch brought together research with **1,150+ teachers**, feedback from **10+ focus groups** and a team of **9+ contributors** across content, design and production.
 
