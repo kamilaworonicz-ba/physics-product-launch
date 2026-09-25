@@ -11,7 +11,7 @@ I led the development and launch of a new physics textbook series, from teacher 
 
 The publisher's previous physics series had received recognition from the [Polish Academy of Arts and Sciences](https://en.wikipedia.org/wiki/Polish_Academy_of_Arts_and_Sciences), but remained niche. Teachers described it as ambitious. I saw another barrier: despite its strong content, the book was difficult to navigate and did not make lesson boundaries or key ideas clear enough.
 
-The market was difficult to enter. Schools typically choose textbooks once every three years, and more than 80% of surveyed teachers used materials from the leading primary-school science publisher. My employer was already the market leader in mathematics textbooks, with a share above 80% — a position that gave us a way to reach physics teachers for research, since some mathematics teachers also taught physics. Our goal was to create a series that worked for an ordinary grade 7–8 classroom and that teachers would actively choose.
+The market was difficult to enter. Schools typically choose textbooks once every three years, and more than 80% of surveyed teachers used materials from the leading primary-school science publisher. My employer was already the market leader in mathematics textbooks, with a share above 65% — a position that gave us a way to reach physics teachers for research, since some mathematics teachers also taught physics. Our goal was to create a series that worked for an ordinary grade 7–8 classroom and that teachers would actively choose.
 
 ## 🔍 Research → product decisions
 
